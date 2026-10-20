@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://github.com/vbookshelf/E-Bot-2026/blob/main/images/image1.png" alt="App screenshot" width="300">
+<img src="https://github.com/vbookshelf/E-Bot-2026/blob/main/images/image1.png" alt="Small robot" width="300">
 
 <br>
 
