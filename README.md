@@ -1,5 +1,6 @@
 # List of Free Language Practice Chatbots
 ENGLISH - GERMAN - THAI
+
 <br>
 
 <img src="images/image1.jpeg" alt="Person talking to a robot in a cafe" width="400">
