@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="images/image1.jpeg" alt="Small robot" width="400">
+<img src="images/image1.jpeg" alt="Person talking to a robot in a cafe" width="400">
 
 <br>
 
