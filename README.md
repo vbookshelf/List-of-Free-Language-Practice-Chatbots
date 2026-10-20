@@ -1,5 +1,7 @@
 # List of Free Language Practice Chatbots
-ENGLISH - GERMAN - THAI
+- English
+- German
+- Thai
 
 <br>
 
