@@ -1,2 +1,22 @@
 # List of Free Language Practice Chatbots
-A list of free language practice chatbots. These prototypes are focused on conversation rather than on teaching grammar. Mobile optimized. Non-profit, no ads, no signup, and no app download required. Simply go to the website and start chatting.
+A list of free language practice chatbots. These prototypes are focused on conversation rather than on teaching grammar. Open source. Mobile optimized. Non-profit, no ads, no signup, and no app download required. Simply go to the website and start chatting.
+
+<br>
+
+- E-Bot - Practice Speaking English<br>
+GitHub:<br>
+https://github.com/vbookshelf/E-Bot-2026<br>
+Website:<br>
+https://e-bot.woza.work/
+
+- Deutsch Bot - Practice Speaking German<br>
+GitHub:<br>
+https://github.com/vbookshelf/D-Bot<br>
+Website:<br>
+https://d-bot.woza.work/
+
+- Thai Bot - Practice Speaking Thai<br>
+GitHub:<br>
+https://github.com/vbookshelf/T-Bot-2026<br>
+Website:<br>
+https://t-bot.woza.work/
