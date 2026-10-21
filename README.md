@@ -1,6 +1,7 @@
 # List of Free Language Practice Chatbots
 - English
 - German
+- Spanish
 - Thai
 
 <br>
@@ -22,6 +23,12 @@ GitHub:<br>
 https://github.com/vbookshelf/D-Bot<br>
 Website:<br>
 https://d-bot.woza.work/
+
+- Spanish Bot - Practice Spanish Conversation<br>
+GitHub:<br>
+https://github.com/vbookshelf/S-Bot<br>
+Website:<br>
+https://s-bot.woza.work/
 
 - Thai Bot - Practice Speaking Thai<br>
 GitHub:<br>
