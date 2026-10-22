@@ -15,7 +15,7 @@ The web apps on this list try to solve these problems by providing a free, priva
 
 <br>
 
-These prototypes are focused on conversation rather than on teaching grammar. Open source. Mobile optimized. Non-profit, no ads, no signup, and no app download required. Simply go to the website and start chatting.
+These prototypes are focused on conversation rather than on teaching grammar. Open source. Mobile optimized. Non-profit, no ads, no signup, and no app download required. Simply go to the website and start chatting. No usage limits.
 
 - E-Bot - Practice Speaking English<br>
 GitHub:<br>
