@@ -9,6 +9,8 @@ Many language learners learn vocabulary and grammar in a language school, but ma
 
 The web apps on this list try to solve these problems by providing a free, private and low-stress way to practice conversation on a phone or on a desktop computer.
 
+Also, developers, teachers, and community organizations can easily use vibe coding to adapt the code for their own languages.
+
 <br>
 
 <img src="images/image1.jpeg" alt="Person talking to a robot in a cafe" width="400">
