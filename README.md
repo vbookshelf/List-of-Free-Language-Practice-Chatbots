@@ -7,7 +7,7 @@
 
 Many language learners learn vocabulary and grammar in a language school, but may find it hard to get conversation practice. Also, many may be shy or anxious about making mistakes in front of others.
 
-The web apps on this list try to solve these problems by providing a free, private and low-stress way to practice conversation on a phone or on a desktop computer.
+The web apps on this list try to solve these problems by providing a free, private and low-stress way to practice conversation on a phone or on a desktop computer. They include support for language variations - region, gender and formality.
 
 <br>
 
