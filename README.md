@@ -1,6 +1,7 @@
 # List of Free Language Practice Chatbots
 - English
 - German
+- Mandarin Chinese
 - Spanish
 - Thai
 
@@ -23,6 +24,12 @@ GitHub:<br>
 https://github.com/vbookshelf/D-Bot<br>
 Website:<br>
 https://d-bot.woza.work/
+
+- Chinese Bot - Practice Speaking Mandarin Chinese<br>
+GitHub:<br>
+https://github.com/vbookshelf/C-Bot<br>
+Website:<br>
+https://c-bot.woza.work/
 
 - Spanish Bot - Practice Spanish Conversation<br>
 GitHub:<br>
