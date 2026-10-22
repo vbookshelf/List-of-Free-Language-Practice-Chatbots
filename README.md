@@ -35,7 +35,7 @@ https://github.com/vbookshelf/C-Bot<br>
 Website:<br>
 https://c-bot.woza.work/
 
-- Spanish Bot - Practice Spanish Conversation<br>
+- Spanish Bot - Practice Speaking Spanish<br>
 GitHub:<br>
 https://github.com/vbookshelf/S-Bot<br>
 Website:<br>
