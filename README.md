@@ -1,9 +1,12 @@
 # List of Free Language Practice Chatbots
+A list of free voice enabled chatbots that help language learners practice conversation.
 - English
 - German
 - Mandarin Chinese
 - Spanish
 - Thai
+
+<br>
 
 Many language learners learn vocabulary and grammar in a language school, but may find it hard to get conversation practice. Also, many may be shy or anxious about making mistakes in front of others.
 
