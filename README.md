@@ -9,7 +9,7 @@ Many language learners learn vocabulary and grammar in a language school, but ma
 
 The web apps on this list try to solve these problems by providing a free, private and low-stress way to practice conversation on a phone or on a desktop computer. These apps support voice in, voice out. 
 
-The chat system is also multimodal. This means that it supports image uploads. Imagine sending a photo of a menu to the chatbot and then roleplaying ordering from that menu.
+The chat system is multimodal. This means that it supports image uploads. Imagine sending a photo of a menu to the chatbot and then roleplaying ordering from that menu.
 
 <br>
 
