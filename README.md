@@ -18,7 +18,7 @@ Created to support motivated, self-directed learners. There's no lesson plan, no
 
 <br>
 
-<img src="images/image2.jpeg" alt="Person talking to a robot in a cafe" width="500">
+<img src="images/image2.jpeg" alt="Person talking to a robot in a cafe" width="400">
 
 <br>
 
