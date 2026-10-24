@@ -14,6 +14,8 @@ The web apps on this list try to solve these problems by providing a free, priva
 
 The chat system is multimodal. This means that it supports image uploads. Imagine sending a photo of a menu to the chatbot and then roleplaying ordering from that menu.
 
+The design is focused on serving motivated, self-directed learners. There's no lesson plan, no gamification, no streaks, and no external prompts to come back. 
+
 <br>
 
 <img src="images/image2.jpeg" alt="Person talking to a robot in a cafe" width="400">
